@@ -1,1 +1,2 @@
-# Projetos realizados com JavaScript.
+# JS
+Projetos realizados com JavaScript.
